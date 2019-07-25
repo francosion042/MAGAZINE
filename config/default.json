@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb://localhost:27017/magazine",
+  "jwtSecret": "secret",
+  "githubClientId": "",
+  "githubSecret": ""
+}
