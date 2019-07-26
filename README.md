@@ -15,4 +15,4 @@ Anthony Nwobodo
 
 ### License
 
-This project is licensed under the MIT License
+This project is licensed under the FRANCOSION TECH License
