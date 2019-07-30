@@ -1,5 +1,6 @@
 {
   "mongoURI": "mongodb+srv://francosion042:@ElsTony24@magazine-28kxt.mongodb.net/test?retryWrites=true&w=majority",
+  // "mongoURI": "mongodb://localhost:27017/magazine",
   "jwtSecret": "secret",
   "githubClientId": "",
   "githubSecret": ""
